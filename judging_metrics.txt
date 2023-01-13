@@ -1,0 +1,7 @@
+The judging metrics for crack detection are as provided from the trained model :
+
+Precision - 1.0 ( 100% )
+
+Recall - 1.0 ( 100% )
+
+F1-Score - 1.0
