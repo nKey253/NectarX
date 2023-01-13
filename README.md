@@ -17,7 +17,7 @@
 
 2. **crackModelTest.ipynb** - Jupyter notebook for testing judging metrics
 
-3. **round_3 and model_archX** directories for saved model configurations
+3. **round_3 and model_archX** - directories for saved model configurations
 
 4. **judging_metrics.jpg** - screenshot of judging metrics
 
