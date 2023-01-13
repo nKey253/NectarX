@@ -13,9 +13,9 @@
 
 ## Files
 
-1. **crackModelTrain.ipynb** - Jupyter notebook for training the model
+1. **crackModelTrainX.ipynb** - Jupyter notebook for training the model
 
-2. **crackModelTest.ipynb** - Jupyter notebook for testing judging metrics
+2. **crackModelTestX.ipynb** - Jupyter notebook for testing judging metrics
 
 3. **round_3 and model_archX** - directories for saved model configurations
 
