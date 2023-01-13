@@ -23,6 +23,8 @@
 
 5. **judging_metrics.txt** - A text file containing judging metrics
 
+6. **trainHistoryDict** - History Dictionary for trained Model (pickel required)
+
 ## Instructions
 
 #### Don't execute cells of crackModelTrain.ipynb to prevent re-training .
