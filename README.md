@@ -6,7 +6,7 @@
 #### Recall 1.0 (100%)
 #### F1-Score (1.0)
 
-#### Verify using --- crackModelTest.ipynb
+#### Verify using --- crackModelTestX.ipynb
 
 
 ![Alt text](./judging_metrics.png?raw=true "Performance-Metrics")
