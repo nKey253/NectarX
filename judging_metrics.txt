@@ -5,3 +5,5 @@ Precision - 1.0 ( 100% )
 Recall - 1.0 ( 100% )
 
 F1-Score - 1.0
+
+![Alt text](./judging_metrics.png?raw=true "Performance-Metrics")
