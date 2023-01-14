@@ -19,7 +19,7 @@
 
 3. **round_3 and model_archX** - directories for saved model configurations
 
-4. **judging_metrics.jpg** - screenshot of judging metrics
+4. **judging_metrics.png** - screenshot of judging metrics
 
 5. **judging_metrics.txt** - A text file containing judging metrics
 
