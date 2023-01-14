@@ -27,8 +27,8 @@
 
 ## Instructions
 
-#### Don't execute cells of crackModelTrain.ipynb to prevent re-training .
+#### Don't execute cells of crackModelTrainX.ipynb to prevent re-training .
 
-#### Execute cells of crackModelTest.ipynb for calculating the performance metrics .
+#### Execute cells of crackModelTestX.ipynb for calculating the performance metrics .
 
 #### Tensorflow>=2.9 or load_model() might not execute
